@@ -20,3 +20,6 @@ PSEUDOCODE:
 5. else IF province = "Sindh" AND age >=18
 6. print "legal age to marry"
       
+FLOWCHART:
+
+<img> ![WhatsApp Image 2024-09-12 at 10 14 46 PM](https://github.com/user-attachments/assets/2f61ad4d-e9d3-4f16-a311-10e53f56c8c1) <\img>
