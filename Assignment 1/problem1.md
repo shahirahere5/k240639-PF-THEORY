@@ -1,5 +1,5 @@
 Problem 1: Miles per hour to kilometers per seconds 
-This year olympics were held in Europe causing all sorts of problems for the Americans as they don’t use the standard measures like meters and kilometers, grams and kilograms. For racing events the speeds are measured in kilometers per seconds. Can you design a solution to convert kilometers per seconds to miles per hour for US viewers of the Paris Olympics?
+
 
 IPO CHART:
 
