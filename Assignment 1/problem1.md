@@ -16,4 +16,7 @@ PSEUDOCODE:
 4. output mph
 
 FLOWCHART:
+
+<img> ![WhatsApp Image 2024-09-12 at 10 14 39 PM](https://github.com/user-attachments/assets/90983001-67ca-41a6-b683-bbe2f21c4fac) <\img>
+
    
