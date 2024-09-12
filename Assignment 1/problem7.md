@@ -33,3 +33,5 @@ PSEUDOCODE:
 
 
 FLOWCHART:
+
+<img> ![WhatsApp Image 2024-09-12 at 10 14 47 PM (1)](https://github.com/user-attachments/assets/14beb7f2-59eb-4090-b1d8-ff5b89510003) <\img>
