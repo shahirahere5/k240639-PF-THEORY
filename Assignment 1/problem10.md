@@ -24,3 +24,5 @@ PSEUDOCODE:
 13. //endwhile
 
 FLOWCHART:
+
+<img> ![WhatsApp Image 2024-09-12 at 10 14 48 PM (1)](https://github.com/user-attachments/assets/90ff4d57-722a-4f8c-bc6e-49fa6758395a) <\img>
