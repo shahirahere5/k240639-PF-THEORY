@@ -20,3 +20,6 @@ PSEUDOCODE:
 9. 3L_ jug <- 0
 10. 3L_jug <- 3
 11. 5L_ jug <- 3L_ jug  // 5 litre jug has 4 litre
+
+FLOWCHART:
+<img> ![WhatsApp Image 2024-09-12 at 10 14 48 PM (3)](https://github.com/user-attachments/assets/45ad35e1-d55f-43bd-9620-9d80f9e0cdc9) <\img>
