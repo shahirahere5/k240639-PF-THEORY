@@ -19,3 +19,7 @@ PSEUDOCODE:
 8.   print("the numbers are coprime")
 9. ELSE
 10.  print("the numbers are not coprime")    
+
+FLOWCHART:
+
+<img> ![WhatsApp Image 2024-09-12 at 10 14 48 PM (2)](https://github.com/user-attachments/assets/33e4d517-808c-4b91-ac98-8a58c511ea6a) <\img>
