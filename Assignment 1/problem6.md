@@ -1,5 +1,5 @@
 Problem 6: Amusement Park Ride eligibility 
-Safari park is a famous amusement park situated in Karachi that has specific height and age requirements for its rides. For The Dragon Roller Coaster, visitors must be at least 48 inches tall and 10 years old. The Sky Swing requires visitors to be at least 54 inches tall, with no age restriction. The Carousel has no height requirement but visitors must be at least 5 years old.  A visitor is wearing a band so he may take as many rides as he wants until he is tired. Design a  solution that determines if a visitor meets the criteria to go on a chosen ride based on their height, age, and selected ride.
+
 
 IPO CHART:
 
@@ -21,3 +21,9 @@ PSEUDOCODE:
 9.     IF ride = "sky swing" AND height >= 54
 10.       print "you meet the criteria for the sky swing ride"
 11.     else print "sorry, you do no meet the criteria"
+
+
+FLOWCHART:
+
+<img> ![WhatsApp Image 2024-09-12 at 10 14 46 PM (2)](https://github.com/user-attachments/assets/b2750324-5ffb-4336-9a4f-1b9bfd92f2c5) <\img>
+
