@@ -21,3 +21,5 @@ PSEUDOCODE:
 10.  print("you can measure multiples from of M litres upto max(M,L)litres.")         
 
 FLOWCHART:
+
+<img> ![WhatsApp Image 2024-09-12 at 10 14 49 PM](https://github.com/user-attachments/assets/bfcdaa8e-dddb-4049-a013-7988abeb107e) <\img>
